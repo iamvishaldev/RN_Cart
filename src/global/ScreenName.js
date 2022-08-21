@@ -19,3 +19,7 @@ export const SWIPE_UP = "SWIPE_UP";
 export const SEARCHFRIENDS = "SEARCHFRIENDS";
 export const CONTACTS = "CONTACTS";
 export const MY_ACCOUNT = "MY_ACCOUNT";
+export const DASH_BOARD = "DASH_BOARD";
+export const CART = "CART";
+export const OFFERS = "OFFERS";
+export const ORDERSSUMMARY = "ORDERSSUMMARY"

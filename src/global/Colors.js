@@ -1,4 +1,4 @@
-export const THEME_COLOR = '#990012';
+export const THEME_COLOR = '#4acd8d';
 
 export const WHITE = '#FFFFFF';
 
